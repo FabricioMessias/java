@@ -1,0 +1,4 @@
+Log de Usuario 
+Usuario: julie Anne, sexo: Feminino, dia de nascimento: 01, mes de Nascimento 05.
+Informacoes editadas: quarta-feira, 26 de maio de 2021
+
