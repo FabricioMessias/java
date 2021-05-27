@@ -2,7 +2,7 @@
 
 ### Exemplos estudados  durante o curso de Java da Digital Innovation One.
 
-- strings
+- Strings
 - ifs
 - whiles
 - fors
